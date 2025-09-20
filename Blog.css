@@ -1,0 +1,54 @@
+.container {
+  margin: 4% auto auto auto; /*上右下左*/
+  width: 850px; /*一定要設尺寸*/
+  background-color: rgb(129, 205, 246);
+  padding: 30px; /*與邊界距離*/
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  background-color: rgb(61, 75, 140);
+}
+
+img {
+  width: 100%; /*跟著網頁調整圖片大小*/
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 700;
+  /* 可以將a標籤的底線取消 */
+  text-decoration: none;
+}
+p {
+  font-size: 18px;
+}
+.info {
+  font-size: 16px;
+  /* 文字與文字的間距 */
+  letter-spacing: 1px;
+  font-weight: 300px;
+  line-height: 1.5;
+  font-style: italic;
+}
+.author {
+  font-size: 16px;
+  /* 文字與文字的間距 */
+  letter-spacing: 1px;
+  font-weight: 300px;
+  line-height: 1.5;
+  color: rgb(2, 143, 82);
+  font-style: italic;
+}
+.a-link {
+  color: rgb(27, 6, 255);
+}
+.p-link {
+  color: rgb(27, 6, 255);
+}
